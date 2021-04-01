@@ -1,0 +1,2 @@
+function adicionarVitoria(i) {
+}
